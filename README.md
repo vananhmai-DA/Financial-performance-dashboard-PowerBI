@@ -77,18 +77,22 @@ The dashboard includes the following key metrics:
 ### Page 1: Overview
 
 This page provides a high-level summary of the company’s financial performance in 2023. It gives a quick view of revenue, expenses, net profit, profit margin, and expense ratio, while also showing how revenue is converted into net profit after major cost layers.
+![Overview](images/overview.PNG)
 
 ### Page 2: Financial Performance Analysis
 
 This page analyzes how revenue, expenses, net profit, COGS, and OPEX changed over time. It helps evaluate whether revenue growth was translated into profit improvement.
+![Financial Performance Analysis](images/financial-performance-analysis.PNG)
 
 ### Page 3: Business Line Performance
 
 This page compares Sports equipment, Sportswear, and Nutrition and Food Supplements in terms of revenue, expenses, net profit, and profit margin. It identifies which business lines drive revenue scale, which ones generate stronger profitability, and which ones require review.
+![Business Line Performance](images/business-line-performance.PNG)
 
 ### Page 4: Cost and Category Analysis
 
 This page analyzes the company’s expense structure and identifies major cost drivers. It also classifies cost categories based on whether they can be optimized, reviewed carefully, or are difficult to reduce.
+![Cost and Category Analysis](images/cost-category-analysis.PNG)
 
 ## 8. Key Insights
 
@@ -158,7 +162,7 @@ financial-performance-dashboard-powerbi/
 ├── data/
 │   └── Financial_analysis_dataset.xlsx
 └── images/
-    ├── overview.png
-    ├── financial-performance-analysis.png
-    ├── business-line-performance.png
-    └── cost-category-analysis.png
+   ├── overview.PNG
+   ├── financial-performance-analysis.PNG
+   ├── business-line-performance.PNG
+   └── cost-category-analysis.PNG
