@@ -69,11 +69,11 @@ This stage focuses on understanding the stakeholder, business problem, dashboard
 
 #### 5W1H
 
-![5W1H](design-thinking/5W1H.png)
+![5W1H](images/5W1H.png)
 
 #### Empathy Map
 
-![Empathy Map](design-thinking/Empathy%20map.png)
+![Empathy Map](images/Empathy%20map.png)
 
 ---
 
@@ -83,11 +83,11 @@ This stage defines the main business value, Northstar Metrics, and important ana
 
 #### Northstar Metric
 
-![Northstar Metric](design-thinking/Northstar%20Metric.png)
+![Northstar Metric](images/Northstar%20Metric.png)
 
 #### Define Point of View
 
-![Define Point of View](design-thinking/Define%20point%20of%20views.png)
+![Define Point of View](images/Define%20point%20of%20views.png)
 
 ---
 
@@ -97,11 +97,11 @@ This stage explores possible dashboard ideas and organizes them into a clear das
 
 #### Brainstorming
 
-![Brainstorming](design-thinking/Brainstorming.png)
+![Brainstorming](images/Brainstorming.png)
 
 #### Structure Idea
 
-![Structure Idea](design-thinking/Structure%20idea.png)
+![Structure Idea](images/Structure%20idea.png)
 
 
 ## 7. Dashboard Pages
