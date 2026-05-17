@@ -56,21 +56,53 @@ This dashboard is designed for management, finance teams, business line managers
 - Financial Analysis
 - Data Storytelling
 
-## 6. Key Metrics
 
-The dashboard includes the following key metrics:
+## 6. Design Thinking Process
 
-- Total Revenue
-- Total Expense
-- Net Profit
-- Profit Margin
-- Expense Ratio
-- COGS
-- OPEX
-- EBIT
-- Revenue by Business Line
-- Expense by Group
-- Cost Optimization Priority
+Before building the Power BI dashboard, the Design Thinking framework was used to clarify the business context, stakeholder needs, key metrics, and dashboard structure.
+
+The process includes three stages: Empathize, Define Point of View, and Ideate.
+
+### Stage 1: Empathize
+
+This stage focuses on understanding the stakeholder, business problem, dashboard users, and key decision-making needs.
+
+#### 5W1H
+
+![5W1H](design-thinking/5W1H.png)
+
+#### Empathy Map
+
+![Empathy Map](design-thinking/Empathy%20map.png)
+
+---
+
+### Stage 2: Define Point of View
+
+This stage defines the main business value, Northstar Metrics, and important analytical viewpoints. The selected Northstar Metrics are Net Profit and Profit Margin because the dashboard focuses on both revenue growth and cost control.
+
+#### Northstar Metric
+
+![Northstar Metric](design-thinking/Northstar%20Metric.png)
+
+#### Define Point of View
+
+![Define Point of View](design-thinking/Define%20point%20of%20views.png)
+
+---
+
+### Stage 3: Ideate
+
+This stage explores possible dashboard ideas and organizes them into a clear dashboard structure. The final dashboard follows a top-down flow: overall financial health, financial trends, business line performance, and cost analysis.
+
+#### Brainstorming
+
+![Brainstorming](design-thinking/Brainstorming.png)
+
+#### Structure Idea
+
+![Structure Idea](design-thinking/Structure%20idea.png)
+
 
 ## 7. Dashboard Pages
 
