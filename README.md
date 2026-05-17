@@ -1,5 +1,16 @@
 # Financial Performance Dashboard 2023
 
+## Table of Contents
+
+1. [Project Context](#1-project-context)
+2. [Dataset and Data Model](#2-dataset-and-data-model)
+3. [Business Problem](#3-business-problem)
+4. [Report Audience](#4-report-audience)
+5. [Tools Used](#5-tools-used)
+6. [Design Thinking Process](#6-design-thinking-process)
+7. [Dashboard Pages](#7-dashboard-pages)
+8. [Conclusion and Strategic Recommendations](#8-conclusion-and-strategic-recommendations)
+
 ## 1. Project Context
 
 This project analyzes the 2023 financial performance of a sports and wellness-related retail company. The company operates across three main business lines: Sports equipment, Sportswear, and Nutrition and Food Supplements.
