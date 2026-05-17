@@ -4,7 +4,7 @@
 
 This project analyzes the 2023 financial performance of a sports and wellness-related retail company. The company operates across three main business lines: Sports equipment, Sportswear, and Nutrition and Food Supplements.
 
-The purpose of this project is to go beyond basic financial reporting and use Power BI to understand how revenue is converted into profit, which business lines contribute most effectively, and which cost categories create the greatest pressure on profitability.
+The purpose of this project is to go beyond financial reporting and use Power BI to understand how revenue is converted into profit, which business lines contribute most effectively, and which cost categories create the greatest pressure on profitability.
 
 ## 2. Dataset
 
