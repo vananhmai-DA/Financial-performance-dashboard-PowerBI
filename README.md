@@ -26,9 +26,11 @@ The dataset is used to calculate financial metrics such as total revenue, total 
 | Income / Expense Group | Subcategory of revenue or expense. Revenue subcategories include Sales, Consulting and Professional Services, and Other Income. Expense subcategories include OPEX, COGS, and Interest and Tax |
 | Income or expense | Column indicating whether the associated amount is revenue or expense |
 
-## 3. Project Objectives
+## 3. Business Problem
 
-The objective of this project is to build a Power BI dashboard that supports financial and strategic decision-making.
+The company generated revenue throughout 2023, but management needs to understand whether that revenue was effectively converted into profit. Looking only at total revenue is not enough, because profitability can be weakened by high expenses, inefficient business lines, or cost categories that put pressure on margins.
+
+The key business problem is to identify where profit is being created or reduced: across time, across business lines, and across major cost categories. This helps stakeholders decide which areas should be prioritized for growth, optimized for cost efficiency, or reviewed before further investment.
 
 The dashboard is designed to answer the following business questions:
 
@@ -40,12 +42,12 @@ The dashboard is designed to answer the following business questions:
 
 ## 4. Report Audience
 
-This dashboard is designed for management, finance teams, business line managers, and operations or strategy teams.
+This dashboard is designed for management teams, finance teams, business line managers, and operations or strategy teams.
 
 - Management teams can use the dashboard to evaluate overall financial health and make resource allocation decisions.
 - Finance teams can use it to monitor revenue, expenses, COGS, OPEX, EBIT, profit margin, and expense ratio.
-- Business line managers can use it to compare the performance of each business line.
-- Operations and strategy teams can use it to identify cost drivers and optimization opportunities.
+- Business line managers can use it to compare revenue, cost, profitability, and margin across business lines.
+- Operations and strategy teams can use it to identify cost drivers and cost optimization opportunities.
 
 ## 5. Tools Used
 
