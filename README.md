@@ -116,75 +116,39 @@ This page analyzes the company’s expense structure and identifies major cost d
 **Key insight:**  
 After identifying cost pressure as a key issue, the cost analysis shows that COGS and OPEX are the main expense groups. COGS reached 6.71M, while OPEX reached 5.60M. The largest cost drivers are Labor, Payroll, and Equipment, which are related to people and operating capacity. Therefore, the company should not cut costs blindly. Instead, it should optimize flexible costs such as Marketing, Materials, Packaging, and Shipping first, and carefully review Labor, Payroll, and Equipment based on productivity, utilization, and contribution to revenue.
 
-## 8. Key Insights
+## 8. Business Findings and Recommendations
 
-### 8.1 Overview
+### 8.1 Conclusion
 
-In 2023, the business remained profitable, generating 17.56M in revenue and 4.31M in net profit, with an overall profit margin of 24.57%. However, the expense ratio of 75.43% indicates that a large share of revenue was consumed by costs. The profit bridge shows that COGS and OPEX are the main cost layers reducing profitability, while business line analysis reveals that Sportswear contributes the strongest margin, whereas Nutrition and Food Supplements shows a negative margin. Therefore, the key financial decision is not only to grow revenue, but also to prioritize profitable business lines and review major cost drivers such as labor, payroll, equipment, and marketing.
+The company remained profitable in 2023, generating 17.56M in revenue and 4.31M in net profit. However, the expense ratio was high at 75.43%, which means a large share of revenue was consumed by costs.
 
-### 8.2 Financial Performance Analysis
+The main issue is not simply revenue generation, because the company maintained positive revenue throughout the year. The deeper issue is profit conversion. Revenue did not always translate into stronger profit due to high cost pressure from COGS and OPEX.
 
-The company maintained positive revenue throughout the year, but profitability fluctuated significantly across months. Net profit did not always move in line with revenue growth, suggesting that revenue growth alone was not enough to secure stronger financial performance. The trend analysis shows that COGS and OPEX played a key role in shaping monthly net profit, with COGS being the larger cost layer. Business line revenue was mainly driven by Sports equipment, while Nutrition and Food Supplements contributed a smaller share. Overall, the P&L breakdown shows that although the company generated 17.56M in revenue and 5.24M EBIT, cost control remains the main priority, especially in COGS and OPEX, to improve profitability.
+At the business line level, Sportswear showed the strongest profitability, while Sports equipment generated the largest revenue but carried higher expenses. Nutrition and Food Supplements was the only loss-making business line, with expenses higher than revenue.
 
-**Key message:** The business is generating revenue, but profit improvement depends on whether revenue can grow faster than COGS and OPEX.
+At the cost level, COGS and OPEX were the main cost layers affecting profitability. Labor, Payroll, and Equipment were the largest cost drivers, suggesting that the company should review cost efficiency carefully before making reduction decisions.
 
-### 8.3 Business Line Performance
+### 8.2 Recommendations
 
-The Business Line Performance page shows that total revenue reached 17.56M, leaving 4.31M in net profit after COGS, OPEX, interest, and tax. However, profitability is uneven across business lines. Sports equipment generated the highest revenue at 8.9M, but its high expense level of 6.6M reduced net profit to 2.3M, with a profit margin of 25.7%. This suggests that Sports equipment is important for revenue scale but should be optimized to improve cost efficiency.
+Based on the analysis, the company should focus on improving profit conversion rather than only increasing revenue.
 
-Sportswear generated lower revenue at 6.8M, but with only 4.1M in expenses, it delivered the highest net profit of 2.7M and the strongest profit margin at 40.2%. This indicates that Sportswear converts revenue into profit more effectively and should be prioritized for further investment or growth.
+- Prioritize Sportswear because it has the strongest profit margin and converts revenue into profit most effectively.
+- Maintain and optimize Sports equipment because it is the largest revenue driver, but its high expense level reduces profitability.
+- Review Nutrition and Food Supplements before further investment because this business line generated negative profit.
+- Optimize variable costs first, especially Marketing, Materials, Packaging, and Shipping, because these costs are more flexible.
+- Review Labor, Payroll, and Equipment carefully before cutting costs, because these costs may directly support operations and revenue generation.
 
-In contrast, Nutrition and Food Supplements generated only 1.8M in revenue but incurred 2.6M in expenses, resulting in a negative net profit of -0.7M and a negative margin of -38.7%. This business line should be reviewed before allocating additional resources.
+### 8.3 Strategic Summary
 
-**Key message:** Sportswear is the most profitable business line, Sports equipment drives revenue scale, and Nutrition and Food Supplements requires review due to negative profitability.
+The recommended strategy is to grow profitable revenue, protect the main revenue driver, and review the loss-making business line.
 
-### 8.4 Cost and Category Analysis
+| Business Line | Decision | Reason |
+|---|---|---|
+| Sportswear | Prioritize | Highest profit margin and strongest profit conversion |
+| Sports equipment | Maintain / Optimize | Largest revenue driver but high expense level |
+| Nutrition and Food Supplements | Review | Negative profit and expenses higher than revenue |
 
-The Cost and Category Analysis page shows that total expenses reached 13.25M in 2023, accounting for 75.43% of total revenue. COGS was the largest expense group at 6.71M, representing 50.67% of total expenses, followed by OPEX at 5.60M or 42.31%. Interest and tax accounted for only 0.93M, suggesting that the main cost pressure came from production-related costs and operating expenses rather than financing or tax-related items.
+Overall, the company should not cut costs blindly. Instead, it should optimize costs selectively by focusing on flexible cost categories first, while carefully reviewing major cost drivers that support business operations.
 
-Over time, COGS remained higher than OPEX in most months, especially around May and June, while OPEX stayed relatively stable but still represented a significant cost layer. The largest cost drivers were Labor, Payroll, and Equipment, indicating that people and operating capacity were the main areas behind total expenses.
-
-The cost ratio trend shows that both COGS and OPEX ratios increased from Q1 to Q3 before declining in Q4. From the cost control detail, variable costs such as Marketing, Materials, Packaging, and Shipping can be optimized first, while semi-fixed and fixed costs such as Labor, Payroll, and Equipment should be reviewed carefully.
-
-**Key message:** Cost pressure is mainly driven by COGS and OPEX, especially labor, payroll, and equipment. The priority should be to optimize variable costs first and carefully review semi-fixed and fixed costs before making reduction decisions.
-
-## 9. Recommendations
-
-Based on the analysis, the company should focus on improving profitability through selective growth and cost optimization.
-
-Recommended actions:
-
-- Prioritize Sportswear because it has the strongest profit margin and highest net profit.
-- Maintain and optimize Sports equipment because it drives the largest revenue but also carries high expenses.
-- Review Nutrition and Food Supplements because it currently generates negative profit.
-- Optimize variable costs first, especially marketing, materials, packaging, and shipping.
-- Review labor, payroll, and equipment carefully before making cost reduction decisions.
-- Focus on improving how revenue is converted into profit, not only increasing revenue volume.
-
-## 10. Strategic Summary
-
-The recommended business direction is:
-
-| Business Line | Decision |
-|---|---|
-| Sportswear | Prioritize |
-| Sports equipment | Maintain / Optimize |
-| Nutrition and Food Supplements | Review |
-
-Overall, the company should grow the most profitable business line, protect the main revenue driver, and review the loss-making segment while optimizing costs selectively.
-
-## 11. Project Files
-
-```text
-financial-performance-dashboard-powerbi/
-│
-├── README.md
-├── dashboard/
-│   └── Financial_Performance_Dashboard.pbix
-├── data/
-│   └── Financial_analysis_dataset.xlsx
-└── images/
-    ├── overview.png
-    ├── financial-performance-analysis.png
-    ├── business-line-performance.png
-    └── cost-category-analysis.png
+**Strategic direction:**  
+Improve profitability by prioritizing high-margin business lines, optimizing high-cost revenue drivers, and reviewing loss-making activities before further investment.
