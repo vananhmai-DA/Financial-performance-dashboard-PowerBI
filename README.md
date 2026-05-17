@@ -6,13 +6,51 @@ This project analyzes the 2023 financial performance of a sports and wellness-re
 
 The purpose of this project is to go beyond financial reporting and use Power BI to understand how revenue is converted into profit, which business lines contribute most effectively, and which cost categories create the greatest pressure on profitability.
 
-## 2. Dataset
+## 2. Dataset and Data Model
 
-The dataset contains monthly revenue and expense records for the company in 2023. Each row represents a financial record by month, business line, income or expense type, income/expense group, and expense subgroup.
+### 2.1 Dataset Description
+
+The dataset used in this project is `Financial_analysis_dataset.xlsx`.
+
+The original dataset contains monthly revenue and expense records for the company in 2023. Each row represents a financial record by month, business line, income or expense type, income/expense group, and expense subgroup.
 
 The dataset is used to calculate financial metrics such as total revenue, total expense, net profit, profit margin, expense ratio, COGS, OPEX, and EBIT.
 
-### Data Dictionary
+### 2.2 Data Model Structure
+
+Although the original dataset contains one main financial table, additional dimension tables were created in Power BI to support cleaner analysis, filtering, sorting, and business logic.
+
+The data model follows a simple star schema structure, with `Fact_Revenue_Expense` as the central fact table and several dimension tables connected to it.
+
+The main tables include:
+
+| Table | Description |
+|---|---|
+| Fact_Revenue_Expense | Main fact table containing revenue and expense records, amount, date, business line, expense subgroup, and income/expense group |
+| Dim_Date | Date dimension used for month, month name, month sorting, and time-based analysis |
+| Dim_BusinessLine | Business line dimension used to analyze performance across Sports equipment, Sportswear, and Nutrition and Food Supplements |
+| Dim_AccountType | Account type dimension used to classify expense subgroups and support cost breakdown analysis |
+| Dim_CostClassification | Supporting table used to classify cost behavior and cost control type |
+| Dim_Cost Control Type | Supporting dimension used to sort and group cost control actions |
+
+### 2.3 Relationships
+
+The model uses one-to-many relationships between dimension tables and the main fact table where applicable.
+![Data Model Relationships](images/Relationship.png)
+
+Key relationships include:
+
+| From Table | To Table | Relationship Purpose |
+|---|---|---|
+| Dim_Date | Fact_Revenue_Expense | Enables monthly and time-based financial trend analysis |
+| Dim_BusinessLine | Fact_Revenue_Expense | Enables revenue, expense, profit, and margin analysis by business line |
+| Dim_AccountType | Fact_Revenue_Expense | Supports expense subgroup and account type analysis |
+| Dim_AccountType | Dim_CostClassification | Connects expense subgroups with cost behavior and cost control logic |
+| Dim_Cost Control Type | Dim_CostClassification | Supports cost control type sorting and optimization priority analysis |
+
+This model structure helps separate raw financial records from analytical dimensions, making the dashboard easier to filter, maintain, and expand.
+
+### 2.4 Data Dictionary
 
 | Column | Description |
 |---|---|
