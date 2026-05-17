@@ -78,25 +78,43 @@ The dashboard includes the following key metrics:
 
 This page provides a high-level summary of the company’s financial performance in 2023. It gives a quick view of revenue, expenses, net profit, profit margin, and expense ratio, while also showing how revenue is converted into net profit after major cost layers.
 
-![Overview](images/overview.png)
+![Overview](images/Overview.png)
+
+**Key insight:**  
+The company was profitable overall in 2023, with 17.56M in revenue and 4.31M in net profit. However, the expense ratio of 75.43% shows that a large share of revenue was consumed by costs. This means the key question is not only whether the company can generate revenue, but which parts of the business convert revenue into profit efficiently and which parts create cost pressure.
+
+---
 
 ### Page 2: Financial Performance Analysis
 
 This page analyzes how revenue, expenses, net profit, COGS, and OPEX changed over time. It helps evaluate whether revenue growth was translated into profit improvement.
 
-![Financial Performance Analysis](images/financial-performance-analysis.png)
+![Financial Performance Analysis](images/Financial%20trends.png)
+
+**Key insight:**  
+Revenue remained positive throughout the year, but profit performance fluctuated across months. This suggests that weaker profit months were not caused by a lack of revenue alone. Instead, the gap between revenue and profit points to cost pressure as a key factor, especially when COGS and OPEX remained high. Therefore, the next step is to identify whether the profit pressure came from specific business lines or cost categories.
+
+---
 
 ### Page 3: Business Line Performance
 
 This page compares Sports equipment, Sportswear, and Nutrition and Food Supplements in terms of revenue, expenses, net profit, and profit margin. It identifies which business lines drive revenue scale, which ones generate stronger profitability, and which ones require review.
 
-![Business Line Performance](images/business-line-performance.png)
+![Business Line Performance](images/Business%20lines.png)
+
+**Key insight:**  
+The business line analysis identifies Nutrition and Food Supplements as the main loss-making segment. It generated only 1.8M in revenue but incurred 2.6M in expenses, resulting in -0.7M net profit and a negative margin of -38.7%. Compared with Sports equipment and Sportswear, this segment has both the lowest revenue and the weakest cost efficiency. This suggests that the loss is caused by both weak revenue contribution and expenses that are too high relative to the revenue generated.
+
+---
 
 ### Page 4: Cost and Category Analysis
 
 This page analyzes the company’s expense structure and identifies major cost drivers. It also classifies cost categories based on whether they can be optimized, reviewed carefully, or are difficult to reduce.
 
-![Cost and Category Analysis](images/cost-category-analysis.png)
+![Cost and Category Analysis](images/Cost%20analysis.png)
+
+**Key insight:**  
+After identifying cost pressure as a key issue, the cost analysis shows that COGS and OPEX are the main expense groups. COGS reached 6.71M, while OPEX reached 5.60M. The largest cost drivers are Labor, Payroll, and Equipment, which are related to people and operating capacity. Therefore, the company should not cut costs blindly. Instead, it should optimize flexible costs such as Marketing, Materials, Packaging, and Shipping first, and carefully review Labor, Payroll, and Equipment based on productivity, utilization, and contribution to revenue.
 
 ## 8. Key Insights
 
