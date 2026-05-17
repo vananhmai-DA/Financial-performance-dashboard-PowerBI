@@ -116,7 +116,7 @@ This page analyzes the company’s expense structure and identifies major cost d
 **Key insight:**  
 After identifying cost pressure as a key issue, the cost analysis shows that COGS and OPEX are the main expense groups. COGS reached 6.71M, while OPEX reached 5.60M. The largest cost drivers are Labor, Payroll, and Equipment, which are related to people and operating capacity. Therefore, the company should not cut costs blindly. Instead, it should optimize flexible costs such as Marketing, Materials, Packaging, and Shipping first, and carefully review Labor, Payroll, and Equipment based on productivity, utilization, and contribution to revenue.
 
-## 8. Business Findings and Recommendations
+## 8. Conclusion and Strategic Recommendations
 
 ### 8.1 Conclusion
 
