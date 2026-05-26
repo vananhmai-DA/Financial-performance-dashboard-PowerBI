@@ -11,13 +11,13 @@
 
 ## 1. Project Context and Business Problem
 
-This project analyzes the 2023 financial performance of a sports and wellness-related retail company with three main business lines: **Sports equipment, Sportswear, and Nutrition and Food Supplements**.
+This project analyzes the **2023 financial performance** of a sports and wellness-related retail company with three business lines: **Sports equipment**, **Sportswear**, and **Nutrition and Food Supplements**.
 
-Although the company generated revenue throughout the year, total revenue alone does not fully reflect financial health. Profitability can be weakened by high expenses, inefficient business lines, or cost categories that put pressure on margins.
+Although the company generated revenue throughout the year, revenue alone does not fully reflect financial health. Profitability may be affected by high expenses, inefficient business lines, or cost categories that put pressure on margins.
 
-Using Power BI, this project goes beyond basic financial reporting to analyze how revenue is converted into profit across time, business lines, and major cost categories. The goal is to identify where profit is being created, where it is being reduced, and which areas should be prioritized for growth, cost optimization, or further review.
+This project examines how revenue is converted into profit across time, business lines, and major cost categories. The goal is to identify where profit is created, where it is reduced, and which areas should be prioritized for growth, optimization, or further review.
 
-The dashboard is designed to answer the following business questions:
+The dashboard is designed to answer five key business questions:
 
 - Is the company financially healthy overall?
 - How did revenue, expenses, and profit change over time?
@@ -27,12 +27,14 @@ The dashboard is designed to answer the following business questions:
 
 ## 2. Report Audience
 
-This dashboard is designed for management teams, finance teams, business line managers, and operations or strategy teams.
+This dashboard is designed for stakeholders who need to monitor financial performance and support business decisions.
 
-- Management teams can use the dashboard to evaluate overall financial health and make resource allocation decisions.
-- Finance teams can use it to monitor revenue, expenses, COGS, OPEX, EBIT, profit margin, and expense ratio.
-- Business line managers can use it to compare revenue, cost, profitability, and margin across business lines.
-- Operations and strategy teams can use it to identify cost drivers and cost optimization opportunities.
+- **Management teams:** Evaluate overall financial health and make resource allocation decisions.
+- **Finance teams:** Track revenue, expenses, COGS, OPEX, EBIT, profit margin, and expense ratio.
+- **Business line managers:** Compare revenue, cost, profitability, and margin across business lines.
+- **Operations and strategy teams:** Identify major cost drivers and cost optimization opportunities.
+  
+## 3. Dataset and Data Model
 
 ## 3. Dataset and Data Model
 
@@ -40,15 +42,15 @@ This dashboard is designed for management teams, finance teams, business line ma
 
 The dataset used in this project is `Financial_analysis_dataset.xlsx`.
 
-The original dataset contains monthly revenue and expense records for the company in 2023. Each row represents a financial record by month, business line, income or expense type, income/expense group, and expense subgroup.
+It contains monthly revenue and expense records for a sports and wellness-related retail company in 2023. Each row represents a financial record by month, business line, income or expense type, income/expense group, and expense subgroup.
 
-The dataset is used to calculate financial metrics such as total revenue, total expense, net profit, profit margin, expense ratio, COGS, OPEX, and EBIT.
+The dataset is used to calculate key financial metrics, including revenue, expense, net profit, profit margin, expense ratio, COGS, OPEX, and EBIT.
 
 ### 3.2 Data Model Structure
 
-Although the original dataset contains one main financial table, additional dimension tables were created in Power BI to support cleaner analysis, filtering, sorting, and business logic.
+The original dataset contains one main financial table. In Power BI, additional dimension tables were created to support cleaner filtering, sorting, and business logic.
 
-The data model follows a simple star schema structure, with `Fact_Revenue_Expense` as the central fact table and several dimension tables connected to it.
+The data model follows a simple star schema, with `Fact_Revenue_Expense` as the central fact table connected to supporting dimension tables.
 
 The main tables include:
 
