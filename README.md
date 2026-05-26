@@ -2,14 +2,12 @@
 
 ## Table of Contents
 
-1. [Project Context](#1-project-context)
-2. [Dataset and Data Model](#2-dataset-and-data-model)
-3. [Business Problem](#3-business-problem)
-4. [Report Audience](#4-report-audience)
-5. [Tools Used](#5-tools-used)
-6. [Design Thinking Process](#6-design-thinking-process)
-7. [Dashboard Pages](#7-dashboard-pages)
-8. [Conclusion and Strategic Recommendations](#8-conclusion-and-strategic-recommendations)
+1. [Project Context and Business Problem](#1-project-context-and-business-problem)
+2. [Report Audience](#2-report-audience)
+3. [Dataset and Data Model](#3-dataset-and-data-model)
+4. [Design Thinking Process](#4-design-thinking-process)
+5. [Dashboard Pages](#5-dashboard-pages)
+6. [Conclusion and Strategic Recommendations](#6-conclusion-and-strategic-recommendations)
 
 ## 1. Project Context and Business Problem
 
