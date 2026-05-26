@@ -245,8 +245,5 @@ Based on the analysis, the company should focus on improving **profit conversion
 | **Sports equipment** | **Maintain / Optimize** | Largest revenue driver, but high expense level |
 | **Nutrition and Food Supplements** | **Review** | Negative profit and expenses higher than revenue |
 
-> **Strategic direction:**  
-> Improve profitability by prioritizing high-margin business lines, optimizing high-cost revenue drivers, and reviewing loss-making activities before further investment.
-
 **Strategic direction:**  
 Improve profitability by prioritizing high-margin business lines, optimizing high-cost revenue drivers, and reviewing loss-making activities before further investment.
