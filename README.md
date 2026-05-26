@@ -91,7 +91,7 @@ This stage focuses on understanding the stakeholder, business problem, dashboard
 
 #### 5W1H
 
-![5W1H](images/5W1H.png)
+![5W1H](images/Empathize.png)
 
 #### Empathy Map
 
@@ -102,12 +102,6 @@ This stage focuses on understanding the stakeholder, business problem, dashboard
 ### Stage 2: Define Point of View
 
 This stage defines the main business value, Northstar Metrics, and important analytical viewpoints. The selected Northstar Metrics are Net Profit and Profit Margin because the dashboard focuses on both revenue growth and cost control.
-
-#### Northstar Metric
-
-![Northstar Metric](images/Northstar%20Metric.png)
-
-#### Define Point of View
 
 ![Define Point of View](images/Define%20point%20of%20views.png)
 
