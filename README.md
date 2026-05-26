@@ -11,15 +11,34 @@
 7. [Dashboard Pages](#7-dashboard-pages)
 8. [Conclusion and Strategic Recommendations](#8-conclusion-and-strategic-recommendations)
 
-## 1. Project Context
+## 1. Project Context and Business Problem
 
-This project analyzes the 2023 financial performance of a sports and wellness-related retail company. The company operates across three main business lines: Sports equipment, Sportswear, and Nutrition and Food Supplements.
+This project analyzes the 2023 financial performance of a sports and wellness-related retail company with three main business lines: **Sports equipment, Sportswear, and Nutrition and Food Supplements**.
 
-The purpose of this project is to go beyond financial reporting and use Power BI to understand how revenue is converted into profit, which business lines contribute most effectively, and which cost categories create the greatest pressure on profitability.
+Although the company generated revenue throughout the year, total revenue alone does not fully reflect financial health. Profitability can be weakened by high expenses, inefficient business lines, or cost categories that put pressure on margins.
 
-## 2. Dataset and Data Model
+Using Power BI, this project goes beyond basic financial reporting to analyze how revenue is converted into profit across time, business lines, and major cost categories. The goal is to identify where profit is being created, where it is being reduced, and which areas should be prioritized for growth, cost optimization, or further review.
 
-### 2.1 Dataset Description
+The dashboard is designed to answer the following business questions:
+
+- Is the company financially healthy overall?
+- How did revenue, expenses, and profit change over time?
+- Which business lines should be prioritized, maintained, optimized, or reviewed?
+- Which cost categories create the most pressure on profitability?
+- Where should cost optimization efforts be focused?
+
+## 2. Report Audience
+
+This dashboard is designed for management teams, finance teams, business line managers, and operations or strategy teams.
+
+- Management teams can use the dashboard to evaluate overall financial health and make resource allocation decisions.
+- Finance teams can use it to monitor revenue, expenses, COGS, OPEX, EBIT, profit margin, and expense ratio.
+- Business line managers can use it to compare revenue, cost, profitability, and margin across business lines.
+- Operations and strategy teams can use it to identify cost drivers and cost optimization opportunities.
+
+## 3. Dataset and Data Model
+
+### 3.1 Dataset Description
 
 The dataset used in this project is `Financial_analysis_dataset.xlsx`.
 
@@ -27,7 +46,7 @@ The original dataset contains monthly revenue and expense records for the compan
 
 The dataset is used to calculate financial metrics such as total revenue, total expense, net profit, profit margin, expense ratio, COGS, OPEX, and EBIT.
 
-### 2.2 Data Model Structure
+### 3.2 Data Model Structure
 
 Although the original dataset contains one main financial table, additional dimension tables were created in Power BI to support cleaner analysis, filtering, sorting, and business logic.
 
@@ -61,54 +80,8 @@ Key relationships include:
 
 This model structure helps separate raw financial records from analytical dimensions, making the dashboard easier to filter, maintain, and expand.
 
-### 2.4 Data Dictionary
 
-| Column | Description |
-|---|---|
-| Year | Year of revenue or expense |
-| Month - name | Month of revenue or expense |
-| Month - sequence | Month of revenue or expense, expressed as a number |
-| Date | Date of revenue or expense, expressed as the last day of the month |
-| Business Line | Business line generating revenue or expense, including Sports equipment, Sportswear, and Nutrition and Food Supplements |
-| Amount, $ | Revenue or expense amount in USD |
-| Expense subgroup | Additional subgroup categorizing expenses associated with OPEX and COGS |
-| Income / Expense Group | Subcategory of revenue or expense. Revenue subcategories include Sales, Consulting and Professional Services, and Other Income. Expense subcategories include OPEX, COGS, and Interest and Tax |
-| Income or expense | Column indicating whether the associated amount is revenue or expense |
-
-## 3. Business Problem
-
-The company generated revenue throughout 2023, but management needs to understand whether that revenue was effectively converted into profit. Looking only at total revenue is not enough, because profitability can be weakened by high expenses, inefficient business lines, or cost categories that put pressure on margins.
-
-The key business problem is to identify where profit is being created or reduced: across time, across business lines, and across major cost categories. This helps stakeholders decide which areas should be prioritized for growth, optimized for cost efficiency, or reviewed before further investment.
-
-The dashboard is designed to answer the following business questions:
-
-1. Is the company financially healthy overall?
-2. How did revenue, expenses, and profit change over time?
-3. Which business lines should be prioritized, maintained, optimized, or reviewed?
-4. Which cost categories create the most pressure on profitability?
-5. Where should cost optimization efforts be focused?
-
-## 4. Report Audience
-
-This dashboard is designed for management teams, finance teams, business line managers, and operations or strategy teams.
-
-- Management teams can use the dashboard to evaluate overall financial health and make resource allocation decisions.
-- Finance teams can use it to monitor revenue, expenses, COGS, OPEX, EBIT, profit margin, and expense ratio.
-- Business line managers can use it to compare revenue, cost, profitability, and margin across business lines.
-- Operations and strategy teams can use it to identify cost drivers and cost optimization opportunities.
-
-## 5. Tools Used
-
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Financial Analysis
-- Data Storytelling
-
-
-## 6. Design Thinking Process
+## 4. Design Thinking Process
 
 Before building the Power BI dashboard, the Design Thinking framework was used to clarify the business context, stakeholder needs, key metrics, and dashboard structure.
 
@@ -140,22 +113,8 @@ This stage defines the main business value, Northstar Metrics, and important ana
 
 ![Define Point of View](images/Define%20point%20of%20views.png)
 
----
 
-### Stage 3: Ideate
-
-This stage explores possible dashboard ideas and organizes them into a clear dashboard structure. The final dashboard follows a top-down flow: overall financial health, financial trends, business line performance, and cost analysis.
-
-#### Brainstorming
-
-![Brainstorming](images/Brainstorming.png)
-
-#### Structure Idea
-
-![Structure Idea](images/Structure%20idea.png)
-
-
-## 7. Dashboard Pages
+## 5. Dashboard Pages
 
 ### Page 1: Overview
 
@@ -225,9 +184,9 @@ The optimization detail shows that variable costs such as Marketing, Materials, 
 
 Therefore, the key finding from this page is that the company should not cut costs blindly. The better approach is to optimize flexible costs first, then review major people and capacity-related costs based on productivity, utilization, and contribution to revenue.
 
-## 8. Conclusion and Strategic Recommendations
+## 6. Conclusion and Strategic Recommendations
 
-### 8.1 Conclusion
+### 6.1 Conclusion
 
 The company remained profitable in 2023, generating 17.56M in revenue and 4.31M in net profit. However, the expense ratio was high at 75.43%, which means a large share of revenue was consumed by costs.
 
@@ -237,7 +196,7 @@ At the business line level, Sportswear showed the strongest profitability, while
 
 At the cost level, COGS and OPEX were the main cost layers affecting profitability. Labor, Payroll, and Equipment were the largest cost drivers, suggesting that the company should review cost efficiency carefully before making reduction decisions.
 
-### 8.2 Recommendations
+### 6.2 Recommendations
 
 Based on the analysis, the company should focus on improving profit conversion rather than only increasing revenue.
 
@@ -247,7 +206,7 @@ Based on the analysis, the company should focus on improving profit conversion r
 - Optimize variable costs first, especially Marketing, Materials, Packaging, and Shipping, because these costs are more flexible.
 - Review Labor, Payroll, and Equipment carefully before cutting costs, because these costs may directly support operations and revenue generation.
 
-### 8.3 Strategic Summary
+### 6.3 Strategic Summary
 
 The recommended strategy is to grow profitable revenue, protect the main revenue driver, and review the loss-making business line.
 
