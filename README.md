@@ -36,8 +36,6 @@ This dashboard is designed for stakeholders who need to monitor financial perfor
   
 ## 3. Dataset and Data Model
 
-## 3. Dataset and Data Model
-
 ### 3.1 Dataset Description
 
 The dataset used in this project is `Financial_analysis_dataset.xlsx`.
