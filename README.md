@@ -215,37 +215,38 @@ Cost optimization should therefore focus on:
 
 ## 6. Conclusion and Strategic Recommendations
 
-### 6.1 Conclusion
+This section connects the dashboard findings back to the key business questions defined at the beginning of the project.
 
-The company remained profitable in 2023, generating 17.56M in revenue and 4.31M in net profit. However, the expense ratio was high at 75.43%, which means a large share of revenue was consumed by costs.
+### 6.1 Answering the Business Questions
 
-The main issue is not simply revenue generation, because the company maintained positive revenue throughout the year. The deeper issue is profit conversion. Revenue did not always translate into stronger profit due to high cost pressure from COGS and OPEX.
-
-At the business line level, Sportswear showed the strongest profitability, while Sports equipment generated the largest revenue but carried higher expenses. Nutrition and Food Supplements was the only loss-making business line, with expenses higher than revenue.
-
-At the cost level, COGS and OPEX were the main cost layers affecting profitability. Labor, Payroll, and Equipment were the largest cost drivers, suggesting that the company should review cost efficiency carefully before making reduction decisions.
+| Business Question | Dashboard Answer |
+|---|---|
+| **Is the company financially healthy overall?** | The company was profitable in 2023, with **`17.56M` in revenue**, **`4.31M` in net profit**, and a **profit margin of `24.57%`**. However, the **expense ratio was high at `75.43%`**, showing that profitability was under cost pressure. |
+| **How did revenue, expenses, and profit change over time?** | Revenue remained positive throughout the year, but profit was unstable. This shows that the main issue was not revenue generation, but **profit conversion**, especially in months where **COGS** and **OPEX** remained high. |
+| **Which business lines should be prioritized, maintained, optimized, or reviewed?** | **Sportswear** should be prioritized because it had the strongest margin. **Sports equipment** should be maintained and optimized because it generated the most revenue but carried high expenses. **Nutrition and Food Supplements** should be reviewed because it was loss-making. |
+| **Which cost categories create the most pressure on profitability?** | **COGS** and **OPEX** were the main cost layers. The largest cost drivers were **Labor**, **Payroll**, and **Equipment**. |
+| **Where should cost optimization efforts be focused?** | Cost optimization should start with more flexible costs such as **Marketing**, **Materials**, **Packaging**, and **Shipping**, while **Labor**, **Payroll**, and **Equipment** should be reviewed carefully before any reduction decision. |
 
 ### 6.2 Recommendations
 
-Based on the analysis, the company should focus on improving profit conversion rather than only increasing revenue.
+Based on the analysis, the company should focus on improving **profit conversion**, not only increasing revenue.
 
-- Prioritize Sportswear because it has the strongest profit margin and converts revenue into profit most effectively.
-- Maintain and optimize Sports equipment because it is the largest revenue driver, but its high expense level reduces profitability.
-- Review Nutrition and Food Supplements before further investment because this business line generated negative profit.
-- Optimize variable costs first, especially Marketing, Materials, Packaging, and Shipping, because these costs are more flexible.
-- Review Labor, Payroll, and Equipment carefully before cutting costs, because these costs may directly support operations and revenue generation.
+- **Prioritize Sportswear** because it has the strongest profit margin and converts revenue into profit most effectively.
+- **Maintain and optimize Sports equipment** because it is the largest revenue driver, but its high expense level reduces profitability.
+- **Review Nutrition and Food Supplements** before further investment because this business line generated negative profit.
+- **Optimize flexible costs first**, especially **Marketing**, **Materials**, **Packaging**, and **Shipping**.
+- **Review Labor, Payroll, and Equipment carefully** because these costs may directly support operations and revenue generation.
 
 ### 6.3 Strategic Summary
 
-The recommended strategy is to grow profitable revenue, protect the main revenue driver, and review the loss-making business line.
-
 | Business Line | Decision | Reason |
 |---|---|---|
-| Sportswear | Prioritize | Highest profit margin and strongest profit conversion |
-| Sports equipment | Maintain / Optimize | Largest revenue driver but high expense level |
-| Nutrition and Food Supplements | Review | Negative profit and expenses higher than revenue |
+| **Sportswear** | **Prioritize** | Highest profit margin and strongest profit conversion |
+| **Sports equipment** | **Maintain / Optimize** | Largest revenue driver, but high expense level |
+| **Nutrition and Food Supplements** | **Review** | Negative profit and expenses higher than revenue |
 
-Overall, the company should not cut costs blindly. Instead, it should optimize costs selectively by focusing on flexible cost categories first, while carefully reviewing major cost drivers that support business operations.
+> **Strategic direction:**  
+> Improve profitability by prioritizing high-margin business lines, optimizing high-cost revenue drivers, and reviewing loss-making activities before further investment.
 
 **Strategic direction:**  
 Improve profitability by prioritizing high-margin business lines, optimizing high-cost revenue drivers, and reviewing loss-making activities before further investment.
