@@ -150,9 +150,9 @@ The P&L breakdown confirms the cost pressure: the company generated **`17.56M` i
 
 ### Business Implication
 
-The root cause of weaker profit months was mainly **cost pressure from COGS and OPEX**, rather than a lack of revenue. Management should focus on improving **profit conversion**, controlling major cost layers, and reviewing business lines with weaker contribution to profitability.
----
+The root cause of weaker profit months was mainly **cost pressure** from COGS and OPEX, rather than a lack of revenue. Management should focus on improving **profit conversion**, controlling major cost layers, and reviewing business lines with **weaker contribution to profitability**.
 
+---
 ### Page 3: Business Line Performance
 
 This page compares Sports equipment, Sportswear, and Nutrition and Food Supplements in terms of revenue, expenses, net profit, and profit margin. It identifies which business lines drive revenue scale, which ones generate stronger profitability, and which ones require review.
