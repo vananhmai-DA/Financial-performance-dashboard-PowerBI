@@ -138,22 +138,19 @@ This page analyzes how revenue, expenses, net profit, COGS, and OPEX changed ove
 
 ### Key Insights
 
-The company maintained **positive revenue throughout 2023**, but **profit performance was not stable**. Revenue was strongest in **January** and **December**, while net profit dropped noticeably in **April**, **September**, and **November**.
+The company maintained **positive revenue throughout 2023**, with revenue peaking in **January** and **December**. However, **net profit was unstable**, especially in **April**, **September**, and **November**.
 
-This shows that the company did not have a revenue problem across the whole year. Instead, the main issue was a **profit conversion problem** in several months.
+This suggests that the main issue was not revenue generation, but **profit conversion**. In several months, revenue did not translate into stronger profit because **COGS** and **OPEX** remained high compared with revenue.
 
-The cost breakdown shows that **COGS** and **OPEX** played an important role in shaping monthly net profit. In months where net profit weakened, **COGS and OPEX remained relatively high compared with revenue**. This suggests that weaker profit was not caused only by lower revenue, but also by **cost pressure**.
+The growth trend supports this finding. **Revenue growth** and **net profit growth** did not always move together, meaning that revenue recovery alone was not enough to improve financial performance when costs were not well controlled.
 
-The growth trend supports this finding. **Revenue growth** and **net profit growth** did not always move in the same direction. Some months showed revenue recovery, but profit did not improve at the same pace. This means **revenue growth alone was not enough** to improve financial performance if costs were not controlled.
+By business line, **Sports equipment** contributed the largest revenue share, while **Sportswear** remained a meaningful contributor. **Nutrition and Food Supplements** had the smallest revenue contribution, suggesting limited support to overall profitability.
 
-When narrowing down by business line, **Sports equipment** contributed the largest share of revenue across the year, while **Sportswear** remained a meaningful contributor. **Nutrition and Food Supplements** contributed the smallest revenue share, suggesting that this business line had limited ability to support overall profitability.
-
-The P&L breakdown confirms the main issue: the company generated **`17.56M` in revenue** and **`10.85M` in gross profit**, but **COGS of `6.71M`** and **OPEX of `5.60M`** significantly reduced operating profit.
+The P&L breakdown confirms the cost pressure: the company generated **`17.56M` in revenue** and **`10.85M` in gross profit**, but **COGS of `6.71M`** and **OPEX of `5.60M`** significantly reduced operating profit.
 
 ### Business Implication
 
-The root cause of weaker profit months appears to be **cost pressure**, especially from **COGS** and **OPEX**, rather than a complete lack of revenue. Management should therefore focus not only on growing revenue, but also on improving **profit conversion**, controlling major cost layers, and reviewing business lines with weaker contribution to profitability.
-
+The root cause of weaker profit months was mainly **cost pressure from COGS and OPEX**, rather than a lack of revenue. Management should focus on improving **profit conversion**, controlling major cost layers, and reviewing business lines with weaker contribution to profitability.
 ---
 
 ### Page 3: Business Line Performance
@@ -164,26 +161,21 @@ This page compares Sports equipment, Sportswear, and Nutrition and Food Suppleme
 
 ### Key Insights
 
-The **profit bridge** shows that the company generated **`17.56M` in revenue** and retained **`4.31M` as net profit** after deducting **COGS**, **OPEX**, **interest**, and **tax**. This confirms that the company was **profitable overall**, but the next question is which business lines actually contributed to or weakened this profit.
+The profit bridge shows that the company generated **`17.56M` in revenue** and retained **`4.31M` as net profit**, confirming that the company was **profitable overall**.
 
-The business line comparison shows that **Sports equipment** generated the highest revenue at **`8.9M`**, but also carried high expenses of **`6.6M`**, leaving **`2.3M` in net profit**.
+However, profitability was not contributed equally across business lines. **Sports equipment** generated the highest revenue at **`8.9M`**, but also carried high expenses of **`6.6M`**, leaving **`2.3M` in net profit**.
 
-**Sportswear** generated lower revenue at **`6.8M`**, but with lower expenses of **`4.1M`**, it delivered the highest net profit at **`2.7M`**. This indicates that Sportswear was the most effective business line in converting revenue into profit.
+**Sportswear** generated lower revenue at **`6.8M`**, but delivered the highest net profit at **`2.7M`** due to lower expenses. It also achieved the strongest profit margin at **`40.2%`**, making it the most effective business line in converting revenue into profit.
 
-In contrast, **Nutrition and Food Supplements** generated only **`1.8M` in revenue** but incurred **`2.6M` in expenses**, resulting in a loss of **`-0.7M`**.
-
-The margin chart confirms this difference in profitability. **Sportswear** had the strongest profit margin at **`40.2%`**, while **Sports equipment** had a lower but still positive margin of **`25.71%`**. **Nutrition and Food Supplements** had a negative margin of **`-38.67%`**, showing that this business line did not convert revenue into profit.
-
-The monthly revenue trend also shows that **Nutrition and Food Supplements** remained the smallest revenue contributor throughout the year. Therefore, its loss appears to come from both **weak revenue scale** and **expenses that were too high compared with revenue**.
+In contrast, **Nutrition and Food Supplements** generated only **`1.8M` in revenue** but incurred **`2.6M` in expenses**, resulting in a loss of **`-0.7M`** and a negative margin of **`-38.67%`**. This shows that the business line had both weak revenue scale and poor profit conversion.
 
 ### Business Implication
 
-Based on the decision matrix:
+The business line strategy should be selective:
 
 - **Sportswear** should be **prioritized** because it has the strongest profitability.
-- **Sports equipment** should be **maintained and optimized** because it drives the largest revenue but also carries high expenses.
-- **Nutrition and Food Supplements** should be **reviewed before further investment** because it has weak revenue scale and a negative profit margin.
-
+- **Sports equipment** should be **maintained and optimized** because it drives the most revenue but carries high expenses.
+- **Nutrition and Food Supplements** should be **reviewed before further investment** because it generated negative profit.
 ---
 
 ### Page 4: Cost and Category Analysis
@@ -193,25 +185,20 @@ This page analyzes the company’s expense structure and identifies major cost d
 ![Cost and Category Analysis](images/Cost%20analysis.png)
 
 ### Key Insights
-The cost structure shows that **COGS** and **OPEX** were the two main expense groups in 2023. **COGS accounted for `6.71M`**, representing **`50.67%` of total expenses**, while **OPEX accounted for `5.60M`**, representing **`42.31%`**.
 
-In contrast, **interest and tax accounted for only `0.93M`**, meaning the main cost pressure came from **core business operations** rather than financing or tax-related items.
+The cost structure shows that **COGS** and **OPEX** were the two main expense groups in 2023. **COGS accounted for `6.71M`**, or **`50.67%` of total expenses**, while **OPEX accounted for `5.60M`**, or **`42.31%`**.
 
-Across the year, **COGS stayed higher than OPEX in most months**, confirming that production-related costs were the largest cost layer affecting profitability. The top cost drivers also show that **Labor** was the biggest cost item at **`4.5M`**, followed by **Payroll at `1.8M`** and **Equipment at `1.3M`**. This suggests that **people-related costs and operating capacity** were the main sources of cost pressure.
+This means the main cost pressure came from **core business operations**, rather than interest or tax-related items. Across the year, **COGS stayed higher than OPEX in most months**, making it the largest cost layer affecting profitability.
 
-The cost ratio trend shows that both **COGS ratio** and **OPEX ratio** increased from **Q1 to Q3** before decreasing in **Q4**. This means cost pressure peaked around **Q3** and improved toward the end of the year. However, because the overall **expense ratio remained high at `75.43%`**, cost control is still an important priority.
+At the cost driver level, **Labor** was the biggest cost item at **`4.5M`**, followed by **Payroll at `1.8M`** and **Equipment at `1.3M`**. This suggests that **people-related costs** and **operating capacity** were the main sources of cost pressure.
 
-The optimization detail shows that variable costs such as **Marketing**, **Materials**, **Packaging**, and **Shipping** can be optimized first because they are more flexible. In contrast, **Labor**, **Payroll**, and **Equipment** should be reviewed carefully because they are semi-fixed or fixed costs and may directly support business operations.
+The cost ratio trend also shows that cost pressure increased from **Q1 to Q3**, then improved in **Q4**. However, with an overall **expense ratio of `75.43%`**, cost control remains an important priority.
 
 ### Business Implication
 
-The company should not cut costs blindly. A better approach is to **optimize flexible costs first**, then review major **people-related and capacity-related costs** based on productivity, utilization, and contribution to revenue.
+The company should not cut costs blindly. Cost optimization should start with more flexible costs such as **Marketing**, **Materials**, **Packaging**, and **Shipping**.
 
-Cost optimization should therefore focus on:
-
-- **Marketing, Materials, Packaging, and Shipping** as the first optimization layer.
-- **Labor, Payroll, and Equipment** as the second review layer.
-- **COGS and OPEX** as the main cost categories to monitor over time.
+Larger cost drivers such as **Labor**, **Payroll**, and **Equipment** should be reviewed carefully based on productivity, utilization, and contribution to revenue.
 
 ## 6. Conclusion and Strategic Recommendations
 
